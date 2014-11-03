@@ -17,8 +17,8 @@ Some more details about what I want to accomplish:
 The crosshair should be suitable for first-person shooters as well as general 3D UI and world interaction. It should integrate well with the New UI system in Unity 4.6.
 
 ## Project Dependencies and Requirements
-- The latest beta version of Unity 4.6 is required (currently b21). [http://unity3d.com/unity/beta/4.6 Link]
-- The latest Unity 4 Integration package of the Oculus VR SDK is required (currently 0.4.3). [https://developer.oculusvr.com/?action=dl Link]
+- The latest beta version of Unity 4.6 is required (currently b21). [Link](http://unity3d.com/unity/beta/4.6)
+- The latest Unity 4 Integration package of the Oculus VR SDK is required (currently 0.4.3). [Link](https://developer.oculusvr.com/?action=dl)
 - Once Unity 4.6 and Unity 5.0 are out of beta, both will be supported as soon as possible.
 - Oculus Rift DK2 hardware is required.
 - Support for GearVR and CV1 should follow eventually.
